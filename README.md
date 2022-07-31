@@ -9,7 +9,7 @@
 
   <h2 align="center">Google Map</h2>
 
-  In this project, I have added a location on website by embedding google map, <br />The project is built using HTML5 & CSS3.
+  In this project, I have added a location on website by embedding google map, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/google-map/"><strong>➥ Live Demo</strong></a>
 
